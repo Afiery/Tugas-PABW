@@ -23,12 +23,12 @@ include 'connection.php';
             <tr>
                 <td>NIM</td>
                 <td>:</td>
-                <td><input type="text" name="nim"  placeholder="Nama" required></td>
+                <td><input type="text" name="nim"  placeholder="NIM" required></td>
             </tr>
             <tr>
                 <td>Nama</td>
                 <td>:</td>
-                <td><input type="text" name="nama_mahasiswa" placeholder="NIM" required></td>
+                <td><input type="text" name="nama_mahasiswa" placeholder="Nama" required></td>
             </tr>
             <tr>
                 <td>Jumlah Bayar</td>
