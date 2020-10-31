@@ -28,7 +28,7 @@ include 'connection.php';
             <tr>
                 <td>Nama</td>
                 <td>:</td>
-                <td><input type="text" name="nama_mahasiswa" placeholder="Nama" required></td>
+                <td><input type="text" name="nama_mahasiswa" placeholder="NAMA" required></td>
             </tr>
             <tr>
                 <td>Jumlah Bayar</td>
